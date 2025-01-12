@@ -1,0 +1,5 @@
+[Successful] [2024-07-27 17:46:50.815] User 'testuser' logged in successfully.
+[Successful] [2024-07-27 17:47:01.792] Using database 'test'.
+[Failed] [2024-07-27 17:47:05.078] Error processing query 'commit; ms: No transaction in progress
+[Failed] [2024-07-27 17:47:08.469] Error processing query 'rollback; ms: No transaction in progress
+[Successful] [2024-07-27 17:47:15.24] start transaction; executed in 4 ms. State= Database: test| Tables: (test-table, 1 records), 
